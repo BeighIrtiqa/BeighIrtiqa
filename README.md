@@ -1,18 +1,18 @@
 
 <h3 title="hehehe"> Hey 👋, I'm Irtiqa!</h3>
 
-<!-- <a href="https://www.linkedin.com/in/asfa-wani-78945120a/">
-  <img align="left" alt="Asfa's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <a href="https://www.linkedin.com/in/beigh-irtiqa/">
+  <img align="left" alt="Irtiqa's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_asfa_wani/">
+<a href="https://www.instagram.com/_beigh_irtiqa/">
   <img align="left" alt="Asfa's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/asfa.wani.35">
-  <img align="left" alt="Asfa's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/Beigh_Irtiqa">
+  <img align="left" alt="Irtiqa's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-<a href="https://twitter.com/WaniAsfa">
-  <img align="left" alt="Asfa's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a> -->
+<!--<a href="https://www.facebook.com/yourname">
+  <img align="left" alt="My Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>-->
 
 
 
@@ -24,8 +24,8 @@
 
 **About Me!**
 
-- 💻 MERN stack aspirant.
-- 🌱 I’m currently learning **JavaScript**.
+- 💻 Unlocking my programming potential.
+- 🌱 I’m currently learning **Python**.
 <!-- - ⚡ Fun Fact ** blue -->
 - 📫 Email me at [beighirtiqa.123@gmail.com](mailto:beighirtiqa.123@gmail.com).
 
