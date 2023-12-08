@@ -25,7 +25,7 @@
 **About Me!**
 
 - 💻 Unlocking my programming potential.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **React**.
 <!-- - ⚡ Fun Fact ** blue -->
 - 📫 Email me at [beighirtiqa.123@gmail.com](mailto:beighirtiqa.123@gmail.com).
 
