@@ -65,7 +65,7 @@
 
 <tr>
 <td>
-      <a href="https://github.com/BeighIrtiqa/Java_Programs"> 
+      <a href="https://github.com/BeighIrtiqa/StyleScriptSandbox.git"> 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BeighIrtiqa&repo=Java_Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
 <td><a href="https://github.com/BeighIrtiqa/Java_Projects">
